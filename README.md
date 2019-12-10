@@ -18,7 +18,7 @@
 
 | *文件名* | *描述* |
 | --- | ---|
-| 20191206.js | bind的实现 |
-| 20191210-1.js | call的实现 |
-| 20191210-2.js | apply的实现 |
+| [20191206.js](https://github.com/zxcweb/native/blob/master/20191206.js) | bind的实现 |
+| [20191210-1.js](https://github.com/zxcweb/native/blob/master/20191210-1.js) | call的实现 |
+| [20191210-2.js](https://github.com/zxcweb/native/blob/master/20191210-2.js) | apply的实现 |
   
